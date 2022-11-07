@@ -7,7 +7,6 @@
 
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-    <br>
 
     <label for="country">Country</label>
     <select id="country" name="country">
