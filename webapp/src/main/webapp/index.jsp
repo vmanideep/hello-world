@@ -3,7 +3,7 @@
 
     <label for="fname">Please Enter First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
-    <br>
+    
     <label for="lname">Please Enter Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
     <br>
