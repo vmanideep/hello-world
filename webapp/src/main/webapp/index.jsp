@@ -1,10 +1,10 @@
 <div class="container">
   <form action="action_page.php">
 
-    <label for="fname">Enter First Name</label>
+    <label for="fname">Please Enter First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
     <br>
-    <label for="lname">Enter Last Name</label>
+    <label for="lname">Please Enter Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
     <br>
     <label for="country">Which Country are you from?</label>
