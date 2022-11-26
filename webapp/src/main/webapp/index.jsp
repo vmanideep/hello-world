@@ -13,7 +13,7 @@
       <option value="canada">Canada</option>
       <option value="usa">USA</option>
     </select>
-    <br>
+  
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
