@@ -3,7 +3,7 @@
 
     <label for="fname">Please Enter First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
-    
+    <br>
     <label for="lname">Please Enter Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
     <br>
@@ -13,7 +13,7 @@
       <option value="canada">Canada</option>
       <option value="usa">USA</option>
     </select>
-  
+    <br>
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
