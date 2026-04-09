@@ -6,11 +6,11 @@
   <display-name>Webapp</display-name>
   <!--
   <servlet>
-  <servlet-name>HelloWorldExample</servlet-name>
-  <servlet-class>com.example.HelloWorldExample</servlet-class>
+  <servlet-name>HelloTeamExample</servlet-name>
+  <servlet-class>com.example.HelloTeamExample</servlet-class>
   </servlet>
   <servlet-mapping>
-  <servlet-name>HelloWorldExample</servlet-name>
+  <servlet-name>HelloTeamExample</servlet-name>
   <url-pattern>/hello</url-pattern>
   </servlet-mapping>
   -->
